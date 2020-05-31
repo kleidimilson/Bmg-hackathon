@@ -6,6 +6,7 @@ import Home from '../pages/home/Home';
 import Main from '../pages/Main/index';
 import Login from '../pages/Login/Login';
 import Cadastro from '../pages/cadastro/Cadastro';
+import Chat from '../pages/intelligence/intelligence';
 
 
 const Routes = () => (
@@ -14,6 +15,7 @@ const Routes = () => (
     <Route path="/login" exact component={Login} />
     <Route path="/cadastro" exact component={Cadastro} />
     <Route path="/dashboard" component={Main} />
+    <Route path="/chat" component={Chat} />
   </Switch>
 );
 

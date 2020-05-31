@@ -12,7 +12,7 @@ import { Container } from './styles';
 export default function Main() {
   return (
     <Container>
-      <NavLink to="/">
+      <NavLink to="/chat">
         <FiMessageCircle size="32" />
       </NavLink>
       <header>

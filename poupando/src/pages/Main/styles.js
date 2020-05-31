@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 
-import TechBackground from '../../assets/tech.jpg';
 
 export const Container = styled.div`
   background: #fff;
