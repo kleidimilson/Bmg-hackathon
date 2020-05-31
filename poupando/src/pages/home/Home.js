@@ -9,7 +9,7 @@ function Home() {
     
   return (
     <>
-        <div className="home">
+        <div className="body">
             <div className="form">
               <form>
                   <img src={logo} width="200px" alt="logo" />
