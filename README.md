@@ -1,4 +1,4 @@
-#Poupando 💰
+# Poupando 💰
 
 ## Desafio BMG
 
@@ -16,25 +16,7 @@ E sabe aquele bot virtual que nunca te responde da forma que você precisa? E pa
 <p>E esquece também aqueles textos genéricos que não respondem a sua pergunta, a Duda fará uma apresentação breve e simples te explicando na prática o que você precisa fazer. </p>
 <p>E ah! Está cansado de não entender aquela sopa de letrinhas (LCI, LCA, CRI , CDB)? Não se preocupe, com a permissão do usuário a *Duda vai reunir as suas informações de gastos mensais e o quanto você consegue poupar, e vai cruzar com o seu objetivo e vai te indicar a melhor solução de investimentos para você. </p>
 
-#Gif das telas
-<a href="https://imgflip.com/gif/43igyc">Clique aqui </a>
+### Site
 
-
-#Instalaçâo
-
-##Node.js
-
-<a href="https://nodejs.org/en/">Clique aqui </a>
-
-##Yarn
-###Windows
-<p> Primeiro instala o Chocolatey <p> <a href="https://chocolatey.org/install">Clique aqui</a>
-<a href="https://classic.yarnpkg.com/pt-BR/docs/install#windows-stable">Clique aqui</a>
-
-###macOS
-<a href="https://classic.yarnpkg.com/pt-BR/docs/install#mac-stable">Clique aqui</a>
-
-###Linux
-<a href="https://classic.yarnpkg.com/pt-BR/docs/install#alternatives-stable">Clique aqui</a>
-
+ * Link para acessar aplicação funcionando : https://poupando.alexsandrodev.com.br/
 
