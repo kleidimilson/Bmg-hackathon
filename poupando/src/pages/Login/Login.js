@@ -15,7 +15,7 @@ function Login() {
                 <img src={logo} width="200px" alt="logo" />
                 <input type="email" placeholder="Digite seu email"/>
                 <input type="password" placeholder="Digite sua senha"/>
-                <Link className="btn-entrar" to="/dashboard">Entrar</Link>
+                <Link className="btn-entrar" to="/dashboard">Acessar minha conta</Link>
               </form>
             </div>
         </div>
